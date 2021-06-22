@@ -26,7 +26,7 @@ Windows: pip install -r requirements.txt
 Linux: sudo pip3 install -r requirements.txt
 ```
 
-3. Run the program, and if you have done correctly, the device name will be displayed in the list.
+3. Run the program (Windows - python main.py, Linux - python3 main.py), and if you have done correctly, the device name will be displayed in the list.
 4. To read the memory, make sure that you have connected the EEPROM according to the schema and click "Read"
 
 ### Test's
